@@ -1,11 +1,11 @@
-# Hey 👋, I'm [Tom!](https://github.com/TomWebster98)
-**`Energy Management Controls & Strategy Engineer`**
+# Hey 👋, I'm [Vaishnavi!](https://github.com/vaiishnavii)
+**`Software Engineer`**
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/tom-webster98/)](https://www.linkedin.com/in/tom-webster98/)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/vaishnaviskale/)](https://www.linkedin.com/in/vaishnaviskale/)
 
 -----------------------------------
 
-MSc Advanced Motorsport Mechatronics student at Cranfield University and first-class MPhys Physics with Astrophysics graduate from the University of Sussex. Experienced in control systems and software engineering, model-based system architecture, material mechanics testing and experimental design; in addition to STEM outreach and communications. Currently working towards a chartership in engineering (CEng) with the IET.
+Masters in Information student at University of Wisconsin- Madison and first-class Bachelors of Technology Information Technology graduate from the SNDT university Mumbai. Experienced in Full stack software engineering.
 
 Passionate about Motorsport race strategy, vehicle dynamics and controls. Current projects focus on **F1 race strategy data analysis, race strategy optimisation, and vehicle dynamics modelling with MATLAB/Simulink.**
 
