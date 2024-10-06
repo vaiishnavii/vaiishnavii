@@ -14,7 +14,7 @@ Masters in Information student at University of Wisconsin- Madison and first-cla
 - 📚 &nbsp; Applying for Full-Time Software Engineering positions for Spring 2025.
 - 📚 &nbsp; Completing an MS in Information at University of Wisconsin- Madison.
 - 🛠 &nbsp; Working on my personal project of an application called "ReferMe!", a platform to connect job seekers and professionals to connect for referrals.
-- 🌱 &nbsp; (TAship) Teaching undergrad students MATH 319 Techniques in Ordinary differential equation.
+- 🌱 &nbsp; Serving as a Teaching Assistant for MATH 319: Techniques in Ordinary Differential Equations at the University of Wisconsin-Madison.
 - 👨🏻‍💻 &nbsp; My personal projects are available on [GitHub.](https://github.com/vaiishnavii?tab=repositories)
 - 📫 &nbsp; Reach out on [LinkedIn!](https://www.linkedin.com/in/vaishnaviskale/)
 
