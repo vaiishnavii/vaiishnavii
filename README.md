@@ -7,7 +7,7 @@
 
 Masters in Information student at University of Wisconsin- Madison and first-class Bachelors of Technology Information Technology graduate from the SNDT university Mumbai. Experienced in Full stack software engineering.
 
-Passionate about Motorsport race strategy, vehicle dynamics and controls. Current projects focus on **F1 race strategy data analysis, race strategy optimisation, and vehicle dynamics modelling with MATLAB/Simulink.**
+
 
 ### What I'm Doing:
 
